@@ -55,8 +55,8 @@
 
 ## Hacktoberfest 2024 Badges 🥇
 <div align="center" style="margin-top: 20px;">
-  <a href="https://holopin.io/@AVNI-THEEXPLORER">
-    <img src="https://holopin.me/AVNI-THEEXPLORER" alt="Holopin badges" />
+  <a href="https://holopin.io/@avni_theexplorer">
+    <img src="https://holopin.me/avni_theexplorer" alt="Holopin badges" />
   </a>
 </div>
 
