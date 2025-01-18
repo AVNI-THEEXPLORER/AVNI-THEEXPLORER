@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/avni-sharma-91718631b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-das-real" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/avnisharma1705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-das-real" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28238580/avni-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18754082" height="30" width="40" /></a>
 
 </p>
